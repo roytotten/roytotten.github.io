@@ -1,0 +1,11 @@
+.main {
+ display: flex;
+}
+.dog {
+display: inline;
+margin right: 2rem;
+}
+.video{
+display: inline;
+margin: 2rem;
+}
