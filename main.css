@@ -1,0 +1,17 @@
+.main {
+ display: flex;
+}
+.dog {
+display: inline;
+margin-right: 2rem;
+font-size: 20px;
+}
+.video{
+display: inline;
+margin: 2rem;
+font-size: 20px; 
+}
+.testfloat{
+background-color: red; 
+}
+
