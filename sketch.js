@@ -12,7 +12,7 @@ function draw() {
   mouseX = mouseX + 1;
 	
 	if (mouseX > 400) {
-		background (200, 0, 0);
+		background (50, 0, 50);
 	}
 
 }
